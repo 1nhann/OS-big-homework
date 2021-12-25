@@ -56,7 +56,7 @@ yarn start build
 
 并实时展示模拟的磁盘和内存的使用情况
 
-![image-20211225165222432](D:\Program Files (x86)\my_works\TyporaImages\image-20211225165222432.png)
+![image-20211225165222432](https://raw.githubusercontent.com/1nhann/hub/master/data/blog/2021/12/image-20211225165222432.png)
 
 
 
